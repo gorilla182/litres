@@ -13,4 +13,4 @@ venv/
 # системные файлы macOS
 .DS_Store
 
-.idea
+.idea/
